@@ -1,0 +1,26 @@
+body{
+    font-family: Arial;
+    font-size: 1.6vh;
+}
+.Post{
+    display: flex;
+    align-items: center;
+    width: 22vw;
+    border: 1px solid pink;
+    border-radius: 10px;
+    margin-top: 10px;
+    height: 5vh;
+    padding: 10px;
+    box-shadow: 5px 5px 5px pink;
+}
+.w15{
+    width: 18vw;
+}
+button{
+    box-shadow: 3px 3px 3px darkgrey;
+    transition: 1s;
+}
+button:hover{
+    transform: scale(1.2);
+    transition: 1s;
+}

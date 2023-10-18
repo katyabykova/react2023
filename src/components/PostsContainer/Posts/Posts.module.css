@@ -1,0 +1,20 @@
+.Posts{
+    width: 40vw;
+    display: flex;
+    border: 2px solid darkgrey;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px darkgrey;
+    padding: 10px;
+    column-gap: 2vw;
+}
+.postsDetails{
+    width: 11vw;
+    border-radius: 10px;
+    border: 1px solid plum;
+    box-shadow: 5px 5px 5px plum;
+    padding: 10px;
+
+}
+.w14{
+    width: 14vw;
+}

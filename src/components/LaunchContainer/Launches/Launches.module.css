@@ -1,0 +1,9 @@
+.Launches{
+    width: 50vw;
+    display: flex;
+    flex-direction: column;
+    border: 2px solid darkgrey;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px darkgrey;
+    padding: 10px;
+}
