@@ -1,0 +1,23 @@
+.Comment {
+    display: flex;
+    width: 30vw;
+    border: solid powderblue;
+    border-width: 0 0 4px 0;
+    padding: 1.5vh;
+    justify-content: space-between;
+    align-items: center;
+}
+
+button {
+    width: 7vw;
+    height: 5vh;
+}
+
+.text {
+    width: 22vw;
+}
+.CommentsPage{
+    width: 68vw;
+    display: flex;
+    justify-content: space-between;
+}

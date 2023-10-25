@@ -1,0 +1,7 @@
+.Post{
+    width: 30vw;
+    border: solid powderblue;
+    border-width:  4px  0 0 0 ;
+    box-shadow: 5px 5px 5px pink;
+    padding: 1.5vh;
+}
