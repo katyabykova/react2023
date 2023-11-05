@@ -1,0 +1,15 @@
+.Posts{
+    width: 15vw;
+    margin-left: 20px;
+}
+.Post{
+    width: 15vw;
+    border: 1px solid ghostwhite;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px springgreen;
+    padding: 10px;
+    margin-top: 10px;
+}
+.PostDetails{
+    display: flex;
+}

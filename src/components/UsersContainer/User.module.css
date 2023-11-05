@@ -1,0 +1,15 @@
+.Users{
+
+    width: 15vw;
+}
+.User{
+    width: 15vw;
+    border: 1px solid ghostwhite;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px springgreen;
+    padding: 10px;
+    margin-top: 10px;
+}
+.UserDetailsPage{
+    display: flex;
+}
